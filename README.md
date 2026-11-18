@@ -22,3 +22,6 @@ barbearia-celos-mvp/
 ├── requirements.txt       # Dependências fixadas do ambiente Python
 ├── .env.example           # Modelo de variáveis de ambiente (DATABASE_URL, SECRET_KEY)
 └── README.md              # Documentação técnica do MVP
+
+
+Link em produção: [https://barbearia-celos-mvp.onrender.com](https://barbearia-celos-mvp.onrender.com)
